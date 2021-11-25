@@ -5,7 +5,7 @@ Attribute Макрос2.VB_ProcData.VB_Invoke_Func = " \n14"
 ' Макрос2 Макрос
 '
 
-'
+'a
     Range("D19").Select
     ActiveCell.FormulaR1C1 = "asdf"
     Range("F22").Select
